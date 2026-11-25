@@ -2,10 +2,10 @@
 
 你好，这里是 **ybblab** —— 一起造点好玩的～
 
-目前主要在维护下方置顶的两个项目：
+开源项目：
 
-- 🤖 **[Droidance](https://github.com/ybblab/Droidance)** — 纯视觉安卓端侧 AI 智能体，后台虚拟屏运行，无需 Root 和电脑
-- 🔍 **[揪咪 Jiumi](https://github.com/ybblab/Jiumi)** — 开源安卓应用行为与隐私监测工具，看清 App 在前台和后台做了什么
+- **[Droidance](https://github.com/ybblab/Droidance)** — 纯视觉安卓端侧 AI 智能体，后台虚拟屏运行，无需 Root 和电脑
+- **[揪咪 Jiumi](https://github.com/ybblab/Jiumi)** — 开源安卓应用行为与隐私监测工具，看清 App 在前台和后台做了什么
 
 很高兴你逛到这里！欢迎下载试用、点个 ⭐ 支持，也随时欢迎提 Issue / PR 交流想法。
 
